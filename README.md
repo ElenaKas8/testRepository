@@ -4,3 +4,4 @@
 - Olena Kaspruk
 - Viktor Bulatov
 - Olga Zaderkovskaya
+- Olha Pashora
